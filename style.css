@@ -1,18 +1,13 @@
-body {
+* {
     margin: 0;
     padding: 0;
-    text-align: center;
 }
 
-h1 {
-    padding-top: 4em;
+body {
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(assets/images/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-p {
-    margin: 2em 0;
-}
-
-img {
-    width: 40em;
-    max-width: 90%;
-}
