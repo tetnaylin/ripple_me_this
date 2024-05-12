@@ -1,4 +1,4 @@
-# Circles... CIRECLES... ripples???
+# CIRCLES... Circles... Ripples???
 
 
 > [!NOTE]
@@ -8,5 +8,5 @@
 > Aims: 
 > - To figure out the wonders of git pages
 > - To figure out a matching theme for circles
-> - 
+> - Learn new things
 > - Have fun
