@@ -1,3 +1,4 @@
+// Ripple Effect that takes place when the mouse moves over the webpage.
 $(document).ready(function(){
     var clicked;
 
