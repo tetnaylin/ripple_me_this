@@ -101,8 +101,10 @@ body {
     flex-direction: column;
     text-align: center;
     padding: 40px;
-    gap: 15px;
+    gap: 10px;
     font-weight: 500;
+    color: var(--clr);
+    /*color: #30027a;*/
 }
 
 .container .drop .content h2 {
